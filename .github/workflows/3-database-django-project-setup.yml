@@ -14,7 +14,7 @@ permissions:
   issues: write
 
 env:
-  STEP_4_FILE: ".github/steps/4-setup-django-rest-framework.md"
+  STEP_4_FILE: ".github/steps/4-setup-express-api-hosting.md
 
 jobs:
   find_exercise:
